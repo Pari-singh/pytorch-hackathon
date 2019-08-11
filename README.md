@@ -1,5 +1,5 @@
 # Pytorch-Hackathon
-## Audimext: An approach to aid hearing impaired people
+## Audimext: An approach to aid hearing impaired people (https://devpost.com/software/audimext-m0jd56)
 
 Team Members: Aakash NS, Insop Song, Himanshu Raj, Viraj Deshwal, Paridhi Singh
 
